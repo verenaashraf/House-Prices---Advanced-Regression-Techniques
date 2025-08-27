@@ -53,8 +53,7 @@ The main goal is to understand the factors affecting house prices and build a mo
 A **Flask web app** was built where users can input house features (e.g., `OverallQual`, `GrLivArea`, `GarageCars`, `TotalBsmtSF`) and get a predicted price instantly.  
 
 **Preview of Web App:**  
-![Web App Screenshot](<img width="1912" height="922" alt="image" src="https://github.com/user-attachments/assets/6cab4997-3bc6-4097-a2a6-629751cb7356" />
-)  
+(https://github.com/verenaashraf/House-Prices---Advanced-Regression-Techniques/blob/main/Screenshot%202025-08-27%20084813.png)  
 
 ---
 
